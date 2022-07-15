@@ -1,24 +1,26 @@
-<p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/arcxingye/EatKano/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
-</p>
-<div align="center">
-
 # 超市喵碗 | SupermarketNyawan
 
-</div>
+##### 原作
+https://github.com/arcxingye/EatKano
 
-## 可选功能
+##### 再制作
+[dbg_8](https://github.com/dbg-8)
 
-简易排行榜(日/周/月) 不推荐使用
+##### 图片来源 
+东方 Gartic 生草地 (329193219) 的无名群友
 
-不需要排行榜把php/sql文件都删掉即可
+##### 音乐来源
+喵碗, 榆木华, FEater
+
+## 玩法
+
+用最快的速度点击屏幕最下方的喵碗
+
 
 ## 版本需求
 
-+ MySQL 5+
-+ PHP 5+
+- MySQL 5+
+- PHP 5+
 
 
-## 原版
-
-https://github.com/arcxingye/EatKano
+###### [英文版 | English Version](https://github.com/dbg-8/SupermarketNyawan/blob/main/README_EN.md)
