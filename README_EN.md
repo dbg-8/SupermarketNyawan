@@ -7,7 +7,7 @@ https://github.com/arcxingye/EatKano
 [dbg_8](https://github.com/dbg-8)
 
 ##### Where the photos from 
-Some friends who have no names from The place of the ground of grass of Touhou (329193219)
+baka
 
 ##### Where the BGM from
 Nyawan, 榆木华, FEater

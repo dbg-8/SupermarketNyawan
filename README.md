@@ -7,7 +7,7 @@ https://github.com/arcxingye/EatKano
 [dbg_8](https://github.com/dbg-8)
 
 ##### 图片来源 
-东方 Gartic 生草地 (329193219) 的无名群友
+baka
 
 ##### 音乐来源
 喵碗, 榆木华, FEater
