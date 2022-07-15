@@ -1,5 +1,8 @@
 # 超市喵碗 | SupermarketNyawan
 
+##### 游戏链接
+https://dbg-8.github.io/SupermarketNyawan/
+
 ##### 原作
 https://github.com/arcxingye/EatKano
 

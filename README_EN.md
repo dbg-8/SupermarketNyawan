@@ -1,5 +1,8 @@
 # 超市喵碗 | SupermarketNyawan
 
+##### The Game
+https://dbg-8.github.io/SupermarketNyawan/
+
 ##### The Old Maker
 https://github.com/arcxingye/EatKano
 
